@@ -1,4 +1,10 @@
-Viktor Kovacs最近开发了JSModeler，这是一款使用WebGL渲染进行可视化3D建模的Javascript API，它非常易于使用。该工具基于three.js框架构建。其库中包括了各种实例，其中包括乐高玩具生成器、3D的井字游戏和机械臂。
+Viktor Kovacs最近开发了JSModeler，这是一款使用WebGL渲染进行可视化3D建模的Javascript API，它非常易于使用。该工具基于three.js框架构建。其库中包括了各种实例，其中包括
+乐高玩具生成器  http://kovacsv.github.io/JSModeler/documentation/examples/robot/robot.html
+
+、3D的井字游戏http://kovacsv.github.io/JSModeler/documentation/examples/tictactoe.html
+
+和机械臂。http://kovacsv.github.io/JSModeler/documentation/examples/legobuilder.html
+
 该类库具有如下功能：
 简单的3D手动建模或者使用生成器建模 
 我们可以通过手工添加顶点和多边型的方法建模。 
